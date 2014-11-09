@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hello, I 'm Lukas Forer, a researcher and software developer from Innsbruck, Austria. My main interests are Bioinformatics, Cloud Computing and Big Data. For more informations, please see my CV.
+Hello, I 'm Lukas Forer, a researcher and software developer from Innsbruck, Austria. My main interests are Bioinformatics, Cloud Computing and Big Data. This page shows you some my ongoing projects. For more information, please see my CV or send me a mail.
 
-### Projects
 
-#### Cloudgene
+### Cloudgene
 
 Cloudgene is a freely available platform to improve the usability of MapReduce programs by providing a graphical user interface for the execution, the import and export of data and the reproducibility of workflows on in-house (private clouds) and rented clusters (public clouds).
 
@@ -16,16 +15,10 @@ The aim of Cloudgene is to build a standardized graphical execution environment 
 
 http://coudgene.uibk.ac.at
 
-#### Askimed
+### Askimed
 
 Askimed is a software product to collect clinical study or register data using electronic case report forms (eCRF).
 
 http://www.askimed.com
-
-### Contact me
-
-Lukas Forer
-Researcher and Software Developer
-[lukas@forer.net](mailto:lukas@forer.net)
 
 
