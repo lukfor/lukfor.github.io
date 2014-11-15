@@ -14,7 +14,7 @@ Cloudgene is a freely available platform to improve the usability of MapReduce p
 
 The aim of Cloudgene is to build a standardized graphical execution environment for currently available and future MapReduce programs, which can all be integrated by using its plug-in interface.
 
-[http://coudgene.uibk.ac.at](http://coudgene.uibk.ac.at)
+[http://cloudgene.uibk.ac.at](http://cloudgene.uibk.ac.at)
 
 ------------
 
