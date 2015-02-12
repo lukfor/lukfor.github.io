@@ -2,26 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Hello, I 'm Lukas Forer, a researcher and software developer living in Innsbruck, Austria. My main interests are Bioinformatics, Cloud Computing and Big Data. I love building scientific applications that are efficient and beautiful. This page shows you some of my ongoing projects. For more information about my scientific publications, please read my [CV](http://lukfor.github.io/files/CV_and_Publications_Forer.pdf) or visit my [Google Scholar profile](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de).
+I'm currently a resarcher at the Division of Genetic Epidemiology. As a part of the computer science subgroup, I'm mainly involved in the following projcets:
 
-------------
-
-### Cloudgene
-
-Cloudgene is a freely available platform to improve the usability of MapReduce programs by providing a graphical user interface for the execution, the import and export of data and the reproducibility of workflows on in-house (private clouds) and rented clusters (public clouds).
-
-The aim of Cloudgene is to build a standardized graphical execution environment for currently available and future MapReduce programs, which can all be integrated by using its plug-in interface.
-
-[http://cloudgene.uibk.ac.at](http://cloudgene.uibk.ac.at)
-
-------------
-
-### Askimed
-
-Askimed is a software product to collect clinical study or register data using electronic case report forms (eCRF).
-
-[http://www.askimed.com](http://www.askimed.com)
-
+- [Cloudgene](http://cloudgene.uibk.ac.at) - A workflow system for Hadoop
+- [Haplogrep](http://haplogrep.uibk.ac.at) - mtDNA Haplogroup detection 
+- [Imputationserver](http://imputationserver.sph.umich.edu/) - Imputation Service based on [minimac3](genome.sph.umich.edu/wiki/Minimac3) and Hadoop MapReduce
+- [mtDNA-Server](http://mtdna-server.uibk.ac.at) - A NGS heteroplasmy and contamination pipeline
+- [Askimed](http://www.askimed.com) - eCRF for collection pheenotypes
 
