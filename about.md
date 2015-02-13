@@ -8,7 +8,7 @@ published: true
 Hi,
 I'm a researcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at) and part of the HS**L**ab. 
 
-We mainly focus on developing open-source tools in the field of genetics development and try to increase the Hadoop usage. Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
+We mainly focus on software development and try to increase the [Hadoop](http://hadoop.apache.org/) usage in Genetics. Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
 
 ## Current projects
 - [Cloudgene](http://cloudgene.uibk.ac.at) - A workflow system for Hadoop.
