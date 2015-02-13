@@ -10,6 +10,7 @@ layout: default
 
       <div class="entry">
         {{ post.content | truncatewords:40}}
+        {{ site.time | date: '%y' }}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
