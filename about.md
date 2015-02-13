@@ -10,6 +10,11 @@ I'm a resarcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac
 
 ## Current projects
 - [Cloudgene](http://cloudgene.uibk.ac.at) - A workflow system for Hadoop
+
 - [Imputationserver](http://imputationserver.sph.umich.edu/) - Imputation Service based on [minimac3](genome.sph.umich.edu/wiki/Minimac3) and Cloudgene. A cooperation with the [Center of Statistical Genetics](http://csg.sph.umich.edu/abecasis/), University of Michigan
+
 - [Haplogrep](http://haplogrep.uibk.ac.at) - mtDNA haplogroup classification using Phylotree. A cooperation with the Institute of Computer Science, [Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
+
 - [mtDNA-Server](http://mtdna-server.uibk.ac.at) - A NGS heteroplasmy and contamination pipeline based on Cloudgene. 
+
+- [Askimed](http://www.askimed.com) - electronic data collection for phenotypes. Uses in the [GCKD](http://www.gckd.org/Seiten/Default.aspx) study.
