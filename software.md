@@ -29,4 +29,5 @@ Askimed is a software product to collect clinical study or register data using e
 ### PedvizAPI
 
 PedVizApi is a Java Api for the visual analysis of large and complex pedigrees. It provides all the necessary functionality for the interactive exploration of extended genealogies. Available packages are mostly focused on a static representation or cannot be added to an existing application; the goal of this open-source library is to provide an application program interface that enables the efficient construction of visual analytic applications for the analysis of family based data.
+
 [https://github.com/lukfor/pedviz](https://github.com/lukfor/pedviz)
