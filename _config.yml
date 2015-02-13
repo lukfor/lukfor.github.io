@@ -21,7 +21,7 @@ footer-links:
   email: sebastian.schoenherr@i-med.ac.at
   facebook: 
   flickr: 
-  github: 
+  github: seppinho
   instagram: 
   linkedin: 
   pinterest: 
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 
+disqus: seb
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
