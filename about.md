@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I'm currently a resarcher at the Division of Genetic Epidemiology. As a part of the computer science subgroup, I'm mainly involved in the following projcets:
-
+Hi,
+I'm a resarcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at) and part of the HS**L**ab. We mainly focus on open-source tool development and try to bring Hadoop to Genetics. Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
+## Current projects
 - [Cloudgene](http://cloudgene.uibk.ac.at) - A workflow system for Hadoop
-- [Haplogrep](http://haplogrep.uibk.ac.at) - mtDNA Haplogroup detection 
-- [Imputationserver](http://imputationserver.sph.umich.edu/) - Imputation Service based on [minimac3](genome.sph.umich.edu/wiki/Minimac3) and Hadoop MapReduce
-- [mtDNA-Server](http://mtdna-server.uibk.ac.at) - A NGS heteroplasmy and contamination pipeline
-- [Askimed](http://www.askimed.com) - eCRF for collection pheenotypes
-
+- [Imputationserver](http://imputationserver.sph.umich.edu/) - Imputation Service based on [minimac3](genome.sph.umich.edu/wiki/Minimac3) and Cloudgene. A cooperation with the [Center of Statistical Genetics](http://csg.sph.umich.edu/abecasis/), University of Michigan
+- [Haplogrep](http://haplogrep.uibk.ac.at) - mtDNA haplogroup classification using Phylotree. A cooperation with the Institute of Computer Science, [Databases and Information Systems](https://dbis-informatik.uibk.ac.at/)
+- [mtDNA-Server](http://mtdna-server.uibk.ac.at) - A NGS heteroplasmy and contamination pipeline based on Cloudgene. 
+- [Askimed](http://www.askimed.com) - electronic data collection for phenotypes. Uses in the [GCKD](http://www.gckd.org/Seiten/Default.aspx) study.
