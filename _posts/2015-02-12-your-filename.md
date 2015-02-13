@@ -2,6 +2,6 @@
 published: false
 ---
 
-## A New Post
+## Imputationserver
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help
+Imputationserver reached 350K imputed genomes. Click [here](https://imputationserver.sph.umich.edu/start.html) to increase the number.
