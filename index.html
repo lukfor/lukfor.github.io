@@ -7,12 +7,12 @@ layout: default
     <article class="post">    
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-   {{ site.time | date: '%D%M%Y' }}
+   {{ site.time | date: '%D' }}
       <div class="entry">
         {{ post.content}}
            </div>
       
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}"</a>
     </article>
   {% endfor %}
 </div>
