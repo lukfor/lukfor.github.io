@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-Find me and my projects on [Github](http://github.com/lukfor)
+Visit me on [Github](http://github.com/lukfor)
 
 ------------
 
