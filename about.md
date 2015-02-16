@@ -6,7 +6,7 @@ published: true
 ---
 
 Hi,
-I'm a researcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at), [Medical University of Innsbruck](http://www.i-med.ac.at) and part of the HS**L**ab. 
+I'm a researcher at the [Division of Genetic Epidemiology](http://genepi.i-med.ac.at), [Medical University of Innsbruck](http://www.i-med.ac.at) and part of a small subgroup, the HS**L**ab. 
 
 We mainly focus on software development and try to increase the [Hadoop](http://hadoop.apache.org/) usage in Genetics. Check out my [Scholar profile](http://scholar.google.at/citations?user=xx6B8OUAAAAJ&hl=de) for publications. 
 
@@ -26,3 +26,4 @@ We mainly focus on software development and try to increase the [Hadoop](http://
 - [Lukas Forer](http://www.forer.it)
 - [Hansi Weißensteiner](http://haplogrep.uibk.ac.at/blog)
 - Clemens Banas
+
