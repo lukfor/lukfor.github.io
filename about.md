@@ -23,6 +23,6 @@ We mainly focus on software development and try to increase the [Hadoop](http://
 
 
 ## HSLab members
-- [Lukas Forer] (http://lukfor.github.io/about)
-- [Hansi Weißensteiner] (http://haplogrep.uibk.ac.at/blog)
+- [Lukas Forer](http://lukfor.github.io/about)
+- [Hansi Weißensteiner](http://haplogrep.uibk.ac.at/blog)
 - Clemens Banas
