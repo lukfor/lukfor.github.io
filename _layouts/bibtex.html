@@ -9,10 +9,10 @@ layout: default
     <script type="text/javascript">
     $(function () {
 
-
+        $.get('{{page.bibtex}}', function (response) {
         $('#bibtex-journals').BibtexJS({
             TemplateString: $("#bibtex-journals-template").text(),
-            BibtexString: $("#bibtex-journals-input").text(),
+            BibtexString: response,
             AuthorToHighlight: "Forer, Lukas"
         });
 
@@ -231,10 +231,11 @@ layout: default
     </script>
 
 <article class="post">
-  <h1>{{ bibtex.title }}</h1>
+  <h1>{{ page.title }}</h1>
 
   <div class="entry">
     <div id="bibtex-journals"></div>
+    {{ content }}
   </div>
 
 </article>
