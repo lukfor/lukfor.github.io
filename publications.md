@@ -1,7 +1,8 @@
 ---
 layout: bibtex
 title: Publications
-bibtex: publications.bib
+myself: Forer, Lukas
+bibtex: /publications.bib
 permalink: /publications/
 ---
 
