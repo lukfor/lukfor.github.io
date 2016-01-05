@@ -13,7 +13,7 @@ layout: default
            $('#bibtex-journals').BibtexJS({
                TemplateString: $("#bibtex-journals-template").text(),
                BibtexString: response,
-               AuthorToHighlight: "Forer, Lukas"
+               AuthorToHighlight: "{{page.myself}}"
            });
          });
       });
