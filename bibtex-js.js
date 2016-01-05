@@ -385,11 +385,9 @@
 
                 var entry = entries[entryKey];
                 if (entry.YEAR != oldYear){
-                    console.log(entry.YEAR);
                     oldYear = entry.YEAR;
-                    
+                    output.append("<h2>"+oldYear+"</h2>");   
                 }
-
                 // find template
                 var tpl = $("." + this.template).clone().removeClass(this.template);
                 
