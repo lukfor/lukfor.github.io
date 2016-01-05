@@ -384,7 +384,7 @@
             for (var entryKey in entries) {
 
                 var entry = entries[entryKey];
-
+console.log(entry);
                 if (entry['year'] != oldYear){
                     console.log(entry['year']);
                     oldYear = entry['year'];
