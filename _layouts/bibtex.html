@@ -10,12 +10,12 @@ layout: default
     $(function () {
 
         $.get('{{page.bibtex}}', function (response) {
-        $('#bibtex-journals').BibtexJS({
-            TemplateString: $("#bibtex-journals-template").text(),
-            BibtexString: response,
-            AuthorToHighlight: "Forer, Lukas"
-        });
-
+           $('#bibtex-journals').BibtexJS({
+               TemplateString: $("#bibtex-journals-template").text(),
+               BibtexString: response,
+               AuthorToHighlight: "Forer, Lukas"
+           });
+         });
       });
     </script>
 
