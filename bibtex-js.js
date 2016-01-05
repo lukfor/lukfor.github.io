@@ -378,9 +378,18 @@
             // iterate over bibTeX entries
             var entries = this.getEntries();
 
+            var oldYear = "";
+            
+
             for (var entryKey in entries) {
 
                 var entry = entries[entryKey];
+
+                if (entry['year'] != oldYear){
+                    console.log(entry['year']);
+                    oldYear = entry['year'];
+                    
+                }
 
                 // find template
                 var tpl = $("." + this.template).clone().removeClass(this.template);
