@@ -6,5 +6,4 @@ bibtex: /publications.bib
 permalink: /publications/
 ---
 
-
-
+Visit me on [Google Scholar profile](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de)
