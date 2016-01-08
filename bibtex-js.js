@@ -362,9 +362,11 @@
         			result += ", ";
         		}
         		result += names[0] + " ";
-        		firstNames = names[1].split(" ");	
-        		for (j = 0; j < firstNames.length; j++){
-        			result += firstNames[j].charAt(0);
+        		if (names.length > 1){
+            		firstNames = names[1].split(" ");	
+            		for (j = 0; j < firstNames.length; j++){
+            			result += firstNames[j].charAt(0);
+            		}
         		}
         	}
         	return result;
