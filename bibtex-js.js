@@ -350,6 +350,26 @@
             }
         },
 
+        formatAuthorString: function(authorString){
+        
+        	authors = authorString.split(" and ");
+        
+        	var result = "";
+        
+        	for (i = 0; i < authors.length; i++){
+        		names = authors[i].split(",");
+        		if ( i > 0){
+        			result += ", ";
+        		}
+        		result += names[0] + " ";
+        		firstNames = names[1].split(" ");	
+        		for (j = 0; j < firstNames.length; j++){
+        			result += firstNames[j].charAt(0);
+        		}
+        	}
+        	return result;
+        },
+
         fixValue: function (value) {
             value = value.replace(/\\glqq\s?/g, "&bdquo;");
             value = value.replace(/\\grqq\s?/g, '&rdquo;');
@@ -428,6 +448,11 @@
                 for (var index in keys) {
                     var key = keys[index];
                     var value = entry[key] || "";
+                    
+                    if (key == 'AUTHOR'){
+                        value = this.formatAuthorString(value);
+                    }
+                    
                     tpl.find("span:not(a)." + key.toLowerCase()).html(this.fixValue(value));
                     tpl.find("a." + key.toLowerCase()).attr('href', this.fixValue(value));
                 }
