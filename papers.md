@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de)
+Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lukas_Forer)
 
 ## 2015
 
