@@ -17,7 +17,7 @@ Kloss-Brandstätter A, Weissensteiner H, Erhart G, Schäfer G, **Forer L**, Sch�
 Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Association of relative telomere length with cardiovascular disease in a large chronic kidney disease cohort: The GCKD study](http://www.ncbi.nlm.nih.gov/pubmed/26302167
 )*. Atherosclerosis, 242(2), 529-534.
 
-**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2015). *[Cloudflow - A framework for MapReduce pipeline development in Biomedical Research](http://dx.doi.org/10.1109/MIPRO.2015.7160259)*. 38th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 172-177. (**Best Paper Award**)
+**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2015). *[Cloudflow - A framework for MapReduce pipeline development in Biomedical Research](http://docs.mipro-proceedings.com/dcvis/DCVIS_01_3145.pdf)*. 38th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 172-177. (**Best Paper Award**)
 
 Jing J, Kielstein JT, Schultheiss UT, Sitter T, Titze SI, Schaeffner ES, McAdams-DeMarco M, Kronenberg F, Eckardt K, Köttgen A, others (2015). *[Prevalence and correlates of gout in a large cohort of patients with chronic kidney disease: the German Chronic Kidney Disease (GCKD) study](http://www.ncbi.nlm.nih.gov/pubmed/25395390)*. Nephrology Dialysis Transplantation, 30(4), 613-621.
 
