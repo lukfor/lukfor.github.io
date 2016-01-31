@@ -18,7 +18,7 @@ Visit me on [Slideshare](http://www.slideshare.net/LukasForer)
 
 **Cloudgene: A MapReduce Workflow-System**. 2014-10-14. University of Michigan, Center of Statistical Genetics, Ann Arbor, USA.
 
-**Delivering Bioinformatics MapReduce Applications in the Cloud**. 37th International ICT Convention MIPRO, 2014-05-29, Opatija, Croatia.
+**[Delivering Bioinformatics MapReduce Applications in the Cloud](http://www.slideshare.net/LukasForer/delivering-bioinformatics-mapreduce-applications-in-the-cloud)**. 37th International ICT Convention MIPRO, 2014-05-29, Opatija, Croatia.
 
 **Imputation as a Service**. Workshop of Genetic Epidemiology 2014, 2014-05-07 – 2014-05-09, Grainau, Germany.
 
