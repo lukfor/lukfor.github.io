@@ -12,7 +12,7 @@ Visit me on [Slideshare](http://www.slideshare.net/LukasForer)
 
 **Imputation Server: Genoytpe Imputation as a Service**. 3th Bioinformatics Workshop in Galaxy Training Network: Bioinformatics Methods in Genomics, 2015-03-02, Zagreb, Croatia.
 
-**Cloudgene: A MapReduce based Workflow Management System**. Workshop on e-Infrastructures for Massively Parallel Sequencing, 2015-01-20, Uppsala, Sweden.
+**[Cloudgene: A MapReduce based Workflow Management System](http://www.slideshare.net/LukasForer/cloudgene-a-mapreduce-based-workflow-management-system)**. Workshop on e-Infrastructures for Massively Parallel Sequencing, 2015-01-20, Uppsala, Sweden.
 
 ## 2014
 
