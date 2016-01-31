@@ -4,11 +4,11 @@ title: Talks
 permalink: /talks/
 ---
 
-Visit me on [Slideshare]()
+Visit me on [Slideshare](http://www.slideshare.net/LukasForer)
 
 ## 2015
 
-**Cloudflow – A Framework for MapReduce Pipeline Development in Biomedical Research**. 38th International ICT Convention MIPRO, 2015-05, Opatija, Croatia.
+**[Cloudflow – A Framework for MapReduce Pipeline Development in Biomedical Research](http://www.slideshare.net/LukasForer/cloudflow-a-framework-for-mapreduce-pipeline-development-in-biomedical-research)**. 38th International ICT Convention MIPRO, 2015-05-28, Opatija, Croatia.
 
 **Imputation Server: Genoytpe Imputation as a Service**. 3th Bioinformatics Workshop in Galaxy Training Network: Bioinformatics Methods in Genomics, 2015-03-02, Zagreb, Croatia.
 
