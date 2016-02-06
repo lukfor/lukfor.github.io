@@ -24,9 +24,8 @@ Visit me on [Slideshare](http://www.slideshare.net/LukasForer)
 
 Hadoop and NGS Data Processing Hackathon IV, 2014-04-01 - 2014-04-02, Sofia, Bulgaria.
 
-##2013 
-
-Hadoop and NGS Data Processing Hackathon III, 2013-06-04 - 2013-06-05, Pula, Italy**Askimed: Data Collection using Electronic Questionnaires**.	Workshop of Genetic Epidemiology 2013, 2013-04-10, Grainau, Germany## 2012
+## 2013 
+Hadoop and NGS Data Processing Hackathon III, 2013-06-04 - 2013-06-05, Pula, Italy**Askimed: Data Collection using Electronic Questionnaires**.	Workshop of Genetic Epidemiology 2013, 2013-04-10, Grainau, Germany## 2012
 **JTisviz: Algorithms for the Analysis of MALDI-MS Datasets**. imzML Workshop: Improved Data Sharing and Data Analysis, 2012-09-23 - 2012-09-27, Rauischholzhausen, Germany**[Cloudgene: an execution platform for MapReduce programs in public and private clouds](http://www.slideshare.net/jandot/l-forer-cloudgene-an-execution-platform-for-mapreduce-programs-in-public-and-private-clouds)**. 13th Annual Bioinformatics Open Source Conference, 2012-07-13 – 2012-07-14, Long Beach, USA## 2011
 
 11th Jahrestagung der ÖGH in Salzburg, 30.09.2011, Salzburg, Austria
