@@ -10,15 +10,21 @@ Visit me on [Slideshare](http://www.slideshare.net/LukasForer)
 
 **[Cloudflow – A Framework for MapReduce Pipeline Development in Biomedical Research](http://www.slideshare.net/LukasForer/cloudflow-a-framework-for-mapreduce-pipeline-development-in-biomedical-research)**. 38th International ICT Convention MIPRO, 2015-05-28, Opatija, Croatia.
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/7uEkfOGPSkDw85" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/LukasForer/cloudflow-a-framework-for-mapreduce-pipeline-development-in-biomedical-research" title="Cloudflow – A Framework for MapReduce Pipeline Development in Biomedical Research" target="_blank">Cloudflow – A Framework for MapReduce Pipeline Development in Biomedical Research</a> </strong> from <strong><a href="http://www.slideshare.net/LukasForer" target="_blank">Lukas Forer</a></strong> </div>
+
 **Imputation Server: Genoytpe Imputation as a Service**. 3th Bioinformatics Workshop in Galaxy Training Network: Bioinformatics Methods in Genomics, 2015-03-02, Zagreb, Croatia.
 
 **[Cloudgene: A MapReduce based Workflow Management System](http://www.slideshare.net/LukasForer/cloudgene-a-mapreduce-based-workflow-management-system)**. Workshop on e-Infrastructures for Massively Parallel Sequencing, 2015-01-20, Uppsala, Sweden.
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/h21drCp9lmVpAL" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/LukasForer/cloudgene-a-mapreduce-based-workflow-management-system" title="Cloudgene - A MapReduce based Workflow Management System" target="_blank">Cloudgene - A MapReduce based Workflow Management System</a> </strong> from <strong><a href="http://www.slideshare.net/LukasForer" target="_blank">Lukas Forer</a></strong> </div>
 
 ## 2014
 
 **Cloudgene: A MapReduce Workflow-System**. 2014-10-14. University of Michigan, Center of Statistical Genetics, Ann Arbor, USA.
 
 **[Delivering Bioinformatics MapReduce Applications in the Cloud](http://www.slideshare.net/LukasForer/delivering-bioinformatics-mapreduce-applications-in-the-cloud)**. 37th International ICT Convention MIPRO, 2014-05-29, Opatija, Croatia.
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/kbTZkhxRhCuY1D" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/LukasForer/delivering-bioinformatics-mapreduce-applications-in-the-cloud" title="Delivering Bioinformatics MapReduce Applications in the Cloud" target="_blank">Delivering Bioinformatics MapReduce Applications in the Cloud</a> </strong> from <strong><a href="http://www.slideshare.net/LukasForer" target="_blank">Lukas Forer</a></strong> </div>
 
 **Imputation as a Service**. Workshop of Genetic Epidemiology 2014, 2014-05-07 – 2014-05-09, Grainau, Germany.
 
