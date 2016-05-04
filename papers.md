@@ -8,7 +8,7 @@ Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAA
 
 ## 2016
 
-**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*. Scalable Computing 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
+**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*.  Scalable Computing - Practice and Experience 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
 
 Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, Specht G, Kronenberg F, Schönherr S (2016). *[mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw247.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw247. 
 
