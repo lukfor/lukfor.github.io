@@ -6,9 +6,19 @@ permalink: /papers/
 
 Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lukas_Forer)
 
+## 2016
+
+**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*. Scalable Computing 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
+
+Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, Specht G, Kronenberg F, Schönherr S (2016). *[mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw247.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw247. 
+
+Weissensteiner H, Pacher D, Kloss-Brandstätter A, **Forer L**, Specht G, Bandelt HJ, Kronenberg F, Salas A, Schönherr S (2016).
+*[HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw233.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw233.
+
+
 ## 2015
 
-Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). [Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240). Experimental gerontology, 72(), 162-166.
+Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240)*. Experimental gerontology, 72(), 162-166.
 
 Spjuth O, Bongcam-Rudloff E, Hermandez GC, **Forer L**, Giovacchini M, Guimera RV, Kallio A, Korpelainen E, Kandula MM, Krachunov M, others (2015). *[Experiences with workflows for automating data-intensive bioinformatics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539931/)*. Biology direct, 10(1), 1-12.
 
