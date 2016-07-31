@@ -8,6 +8,10 @@ Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAA
 
 ## 2016
 
+Lamina  C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer L**, Erhart G, Kollerits B, Marques-Vidal P, others (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. Hum. Mol. Genet. doi:10.1093/hmg/ddw211.
+
+Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.biorxiv.org/content/early/2016/05/10/052308.abstract)*. bioRxiv, 52308.
+
 **Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*.  Scalable Computing - Practice and Experience 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
 
 Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, Specht G, Kronenberg F, Schönherr S (2016). *[mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw247.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw247. 
@@ -15,6 +19,7 @@ Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, 
 Weissensteiner H, Pacher D, Kloss-Brandstätter A, **Forer L**, Specht G, Bandelt HJ, Kronenberg F, Salas A, Schönherr S (2016).
 *[HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw233.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw233.
 
+Sekula, P., Li, Y., Stanescu, H. C., Wuttke, M., Ekici, A. B., Bockenhauer, D., … others. (2016). *[Genetic risk variants for membranous nephropathy: extension of and association with other chronic kidney disease aetiologies](http://ndt.oxfordjournals.org/content/early/2016/02/04/ndt.gfw001.short)*. Nephrology Dialysis Transplantation, gfw001.
 
 ## 2015
 
