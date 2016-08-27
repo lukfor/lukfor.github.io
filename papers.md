@@ -27,7 +27,7 @@ Walter K, Swaroop A, Cucca F, Anderson CA, Myers RM, Boehnke M, McCarthy
 MI, Durbin R, Abecasis G, Marchini J (2016). *[A reference panel of 64,976
 haplotypes for genotype imputation](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3643.html)*. **Nature Genetics**. DOI: 10.1038/ng.3643
 
-Lamina  C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer L**, Erhart G, Kollerits B, Marques-Vidal P, others (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. **Hum. Mol. Genet**. doi:10.1093/hmg/ddw211.
+Lamina C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer** L, Erhart G, Kollerits B, Marques-Vidal P, Ried J, Waeber G, Bergmann S, Dähnhardt D, Stöckl A, Kiechl S, Raitakari OT, Kähönen M, Willeit J, Kedenko L, Paulweber B, Peters A, Meitinger T, Strauch K, Study Group K, Lehtimäki T, Hunt SC, Vollenweider P, Kronenberg F. (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. **Hum. Mol. Genet**. doi:10.1093/hmg/ddw211.
 
 Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.biorxiv.org/content/early/2016/05/10/052308.abstract)*. **bioRxiv**, 52308.
 
@@ -42,13 +42,13 @@ Sekula, P., Li, Y., Stanescu, H. C., Wuttke, M., Ekici, A. B., Bockenhauer, D., 
 
 ## 2015
 
-Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240)*. **Experimental gerontology**, 72(), 162-166.
+Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, Wanner C, Eckardt KU, Kronenberg F; GCKD study Investigators (2015). *[Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240)*. **Experimental gerontology**, 72(), 162-166.
 
-Spjuth O, Bongcam-Rudloff E, Hermandez GC, **Forer L**, Giovacchini M, Guimera RV, Kallio A, Korpelainen E, Kandula MM, Krachunov M, others (2015). *[Experiences with workflows for automating data-intensive bioinformatics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539931/)*. **Biology direct**, 10(1), 1-12.
+Spjuth O, Bongcam-Rudloff E, Hernández GC, **Forer L**, Giovacchini M, Guimera RV, Kallio A, Korpelainen E, Kańduła MM, Krachunov M, Kreil DP, Kulev O, Łabaj PP, Lampa S, Pireddu L, Schönherr S, Siretskiy A, Vassilev D (2015). *[Experiences with workflows for automating data-intensive bioinformatics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539931/)*. **Biology direct**, 10(1), 1-12.
 
-Kloss-Brandstätter A, Weissensteiner H, Erhart G, Schäfer G, **Forer L**, Schönherr S, Pacher D, Seifarth C, Stöckl A, Fendt L, others (2015). *[Validation of Next-Generation Sequencing of Entire Mitochondrial Genomes and the Diversity of Mitochondrial DNA Mutations in Oral Squamous Cell Carcinoma](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135643)*. **PloS one**, 10(8), e0135643.
+Kloss-Brandstätter A, Weissensteiner H, Erhart G, Schäfer G, **Forer L**, Schönherr S, Pacher D, Seifarth C, Stöckl A, Fendt L, Sottsas I, Klocker H, Huck CW, Rasse M, Kronenberg F, Kloss FR (2015). *[Validation of Next-Generation Sequencing of Entire Mitochondrial Genomes and the Diversity of Mitochondrial DNA Mutations in Oral Squamous Cell Carcinoma](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135643)*. **PloS one**, 10(8), e0135643.
 
-Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Association of relative telomere length with cardiovascular disease in a large chronic kidney disease cohort: The GCKD study](http://www.ncbi.nlm.nih.gov/pubmed/26302167
+Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, Wanner C, Eckardt KU, Kronenberg F; GCKD study Investigator (2015). *[Association of relative telomere length with cardiovascular disease in a large chronic kidney disease cohort: The GCKD study](http://www.ncbi.nlm.nih.gov/pubmed/26302167
 )*. **Atherosclerosis**, 242(2), 529-534.
 
 **Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2015). *[Cloudflow - A framework for MapReduce pipeline development in Biomedical Research](http://docs.mipro-proceedings.com/dcvis/DCVIS_01_3145.pdf)*. 38th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 172-177. (**Best Paper Award**)
@@ -61,7 +61,7 @@ Titze S, Schmid M, Köttgen A, Busch M, Floege J, Wanner C, Kronenberg F, Eckard
 
 **Forer L**, Lipic T, Schonherr S, Weisensteiner H, Davidovic D, Kronenberg F, Afgan E (2014). *[Delivering bioinformatics MapReduce applications in the cloud](http://dx.doi.org/10.1109/MIPRO.2014.6859593)*. 37th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 373-377.
 
-Summerer M, Horst J, Erhart G, Weißensteiner H, Schönherr S, Pacher D, **Forer L**, Horst D, Manhart A, Horst B, others (2014). *[Large-scale mitochondrial DNA analysis in Southeast Asia reveals evolutionary effects of cultural isolation in the multi-ethnic population of Myanmar](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-14-17)*. **BMC evolutionary biology**, 14(1), 17.
+Summerer M, Horst J, Erhart G, Weißensteiner H, Schönherr S, Pacher D, **Forer L**, Horst D, Manhart A, Horst B, Sanguansermsri T, Kloss-Brandstätter A (2014). *[Large-scale mitochondrial DNA analysis in Southeast Asia reveals evolutionary effects of cultural isolation in the multi-ethnic population of Myanmar](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-14-17)*. **BMC evolutionary biology**, 14(1), 17.
 
 ## 2013
 
