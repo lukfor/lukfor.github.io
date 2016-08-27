@@ -8,69 +8,88 @@ Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAA
 
 ## 2016
 
-Lamina  C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer L**, Erhart G, Kollerits B, Marques-Vidal P, others (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. Hum. Mol. Genet. doi:10.1093/hmg/ddw211.
+McCarthy S, Das S, Kretzschmar W, Delaneau O, Wood AR, Teumer A, Kang
+HM, Fuchsberger C, Danecek P, Sharp K, Luo Y, Sidore C, Kwong A, Timpson
+N, Koskinen S, Vrieze S, Scott LJ, Zhang H, Mahajan A, Veldink J, Peters U,
+Pato C, van Duijn CM, Gillies CE, Gandin I, Mezzavilla M, Gilly A, Cocca M,
+Traglia M, Angius A, Barrett JC, Boomsma D, Branham K, Breen G, Brummett
+CM, Busonero F, Campbell H, Chan A, Chen S, Chew E, Collins FS, Corbin LJ,
+Smith GD, Dedoussis G, Dorr M, Farmaki AE, Ferrucci L, **Forer L**, Fraser RM,
+Gabriel S, Levy S, Groop L, Harrison T, Hattersley A, Holmen OL, Hveem K,
+Kretzler M, Lee JC, McGue M, Meitinger T, Melzer D, Min JL, Mohlke KL,
+Vincent JB, Nauck M, Nickerson D, Palotie A, Pato M, Pirastu N, McInnis M,
+Richards JB, Sala C, Salomaa V, Schlessinger D, Schoenherr S, Slagboom PE,
+Small K, Spector T, Stambolian D, Tuke M, Tuomilehto J, Van den Berg LH, Van
+Rheenen W, Volker U, Wijmenga C, Toniolo D, Zeggini E, Gasparini P,
+Sampson MG, Wilson JF, Frayling T, de Bakker PI, Swertz MA, McCarroll S,
+Kooperberg C, Dekker A, Altshuler D, Willer C, Iacono W, Ripatti S, Soranzo N,
+Walter K, Swaroop A, Cucca F, Anderson CA, Myers RM, Boehnke M, McCarthy
+MI, Durbin R, Abecasis G, Marchini J (2016). *[A reference panel of 64,976
+haplotypes for genotype imputation](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3643.html)*. **Nature Genetics**. DOI: 10.1038/ng.3643
 
-Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.biorxiv.org/content/early/2016/05/10/052308.abstract)*. bioRxiv, 52308.
+Lamina  C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer L**, Erhart G, Kollerits B, Marques-Vidal P, others (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. **Hum. Mol. Genet**. doi:10.1093/hmg/ddw211.
 
-**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*.  Scalable Computing - Practice and Experience 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
+Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.biorxiv.org/content/early/2016/05/10/052308.abstract)*. **bioRxiv**, 52308.
 
-Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, Specht G, Kronenberg F, Schönherr S (2016). *[mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw247.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw247. 
+**Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2016). *[Cloudflow - enabling faster biomedical pipelines with MapReduce and Spark](http://www.scpe.org/index.php/scpe/article/view/1159/472)*.  **Scalable Computing - Practice and Experience** 17(2), 103–114. DOI: 10.12694/scpe.v17i2.1159.
+
+Weissensteiner H, **Forer L**, Fuchsberger C, Schöpf B, Kloss-Brandstätter A, Specht G, Kronenberg F, Schönherr S (2016). *[mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw247.long)*. **Nucleic Acids Res**. 2016 Apr 15. pii: gkw247. 
 
 Weissensteiner H, Pacher D, Kloss-Brandstätter A, **Forer L**, Specht G, Bandelt HJ, Kronenberg F, Salas A, Schönherr S (2016).
-*[HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw233.long)*. Nucleic Acids Res. 2016 Apr 15. pii: gkw233.
+*[HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw233.long)*. **Nucleic Acids Res**. 2016 Apr 15. pii: gkw233.
 
-Sekula, P., Li, Y., Stanescu, H. C., Wuttke, M., Ekici, A. B., Bockenhauer, D., … others. (2016). *[Genetic risk variants for membranous nephropathy: extension of and association with other chronic kidney disease aetiologies](http://ndt.oxfordjournals.org/content/early/2016/02/04/ndt.gfw001.short)*. Nephrology Dialysis Transplantation, gfw001.
+Sekula, P., Li, Y., Stanescu, H. C., Wuttke, M., Ekici, A. B., Bockenhauer, D., … others. (2016). *[Genetic risk variants for membranous nephropathy: extension of and association with other chronic kidney disease aetiologies](http://ndt.oxfordjournals.org/content/early/2016/02/04/ndt.gfw001.short)*. **Nephrology Dialysis Transplantation**, gfw001.
 
 ## 2015
 
-Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240)*. Experimental gerontology, 72(), 162-166.
+Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Do telomeres have a higher plasticity than thought? Results from the German Chronic Kidney Disease (GCKD) study as a high-risk population](http://www.ncbi.nlm.nih.gov/pubmed/26423240)*. **Experimental gerontology**, 72(), 162-166.
 
-Spjuth O, Bongcam-Rudloff E, Hermandez GC, **Forer L**, Giovacchini M, Guimera RV, Kallio A, Korpelainen E, Kandula MM, Krachunov M, others (2015). *[Experiences with workflows for automating data-intensive bioinformatics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539931/)*. Biology direct, 10(1), 1-12.
+Spjuth O, Bongcam-Rudloff E, Hermandez GC, **Forer L**, Giovacchini M, Guimera RV, Kallio A, Korpelainen E, Kandula MM, Krachunov M, others (2015). *[Experiences with workflows for automating data-intensive bioinformatics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539931/)*. **Biology direct**, 10(1), 1-12.
 
-Kloss-Brandstätter A, Weissensteiner H, Erhart G, Schäfer G, **Forer L**, Schönherr S, Pacher D, Seifarth C, Stöckl A, Fendt L, others (2015). *[Validation of Next-Generation Sequencing of Entire Mitochondrial Genomes and the Diversity of Mitochondrial DNA Mutations in Oral Squamous Cell Carcinoma](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135643)*. PloS one, 10(8), e0135643.
+Kloss-Brandstätter A, Weissensteiner H, Erhart G, Schäfer G, **Forer L**, Schönherr S, Pacher D, Seifarth C, Stöckl A, Fendt L, others (2015). *[Validation of Next-Generation Sequencing of Entire Mitochondrial Genomes and the Diversity of Mitochondrial DNA Mutations in Oral Squamous Cell Carcinoma](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135643)*. **PloS one**, 10(8), e0135643.
 
 Raschenberger J, Kollerits B, Titze S, Köttgen A, Bärthlein B, Ekici AB, **Forer L**, Schönherr S, Weissensteiner H, Haun M, others (2015). *[Association of relative telomere length with cardiovascular disease in a large chronic kidney disease cohort: The GCKD study](http://www.ncbi.nlm.nih.gov/pubmed/26302167
-)*. Atherosclerosis, 242(2), 529-534.
+)*. **Atherosclerosis**, 242(2), 529-534.
 
 **Forer L**, Afgan E, Weißensteiner H, Davidovic D, Specht G, Kronenberg F, Schonherr S (2015). *[Cloudflow - A framework for MapReduce pipeline development in Biomedical Research](http://docs.mipro-proceedings.com/dcvis/DCVIS_01_3145.pdf)*. 38th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 172-177. (**Best Paper Award**)
 
-Jing J, Kielstein JT, Schultheiss UT, Sitter T, Titze SI, Schaeffner ES, McAdams-DeMarco M, Kronenberg F, Eckardt K, Köttgen A, others (2015). *[Prevalence and correlates of gout in a large cohort of patients with chronic kidney disease: the German Chronic Kidney Disease (GCKD) study](http://www.ncbi.nlm.nih.gov/pubmed/25395390)*. Nephrology Dialysis Transplantation, 30(4), 613-621.
+Jing J, Kielstein JT, Schultheiss UT, Sitter T, Titze SI, Schaeffner ES, McAdams-DeMarco M, Kronenberg F, Eckardt K, Köttgen A, others (2015). *[Prevalence and correlates of gout in a large cohort of patients with chronic kidney disease: the German Chronic Kidney Disease (GCKD) study](http://www.ncbi.nlm.nih.gov/pubmed/25395390)*. **Nephrology Dialysis Transplantation**, 30(4), 613-621.
 
-Titze S, Schmid M, Köttgen A, Busch M, Floege J, Wanner C, Kronenberg F, Eckardt K, Prokosch H, Bärthlein B, others (2015). *[Disease burden and risk profile in referred patients with moderate chronic kidney disease: composition of the German Chronic Kidney Disease (GCKD) cohort](http://ndt.oxfordjournals.org/content/early/2014/09/30/ndt.gfu294.full)*. Nephrology Dialysis Transplantation, 30(3), 441-451.
+Titze S, Schmid M, Köttgen A, Busch M, Floege J, Wanner C, Kronenberg F, Eckardt K, Prokosch H, Bärthlein B, others (2015). *[Disease burden and risk profile in referred patients with moderate chronic kidney disease: composition of the German Chronic Kidney Disease (GCKD) cohort](http://ndt.oxfordjournals.org/content/early/2014/09/30/ndt.gfu294.full)*. **Nephrology Dialysis Transplantation**, 30(3), 441-451.
 
 ## 2014
 
 **Forer L**, Lipic T, Schonherr S, Weisensteiner H, Davidovic D, Kronenberg F, Afgan E (2014). *[Delivering bioinformatics MapReduce applications in the cloud](http://dx.doi.org/10.1109/MIPRO.2014.6859593)*. 37th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 373-377.
 
-Summerer M, Horst J, Erhart G, Weißensteiner H, Schönherr S, Pacher D, **Forer L**, Horst D, Manhart A, Horst B, others (2014). *[Large-scale mitochondrial DNA analysis in Southeast Asia reveals evolutionary effects of cultural isolation in the multi-ethnic population of Myanmar](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-14-17)*. BMC evolutionary biology, 14(1), 17.
+Summerer M, Horst J, Erhart G, Weißensteiner H, Schönherr S, Pacher D, **Forer L**, Horst D, Manhart A, Horst B, others (2014). *[Large-scale mitochondrial DNA analysis in Southeast Asia reveals evolutionary effects of cultural isolation in the multi-ethnic population of Myanmar](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-14-17)*. **BMC evolutionary biology**, 14(1), 17.
 
 ## 2013
 
-Weissensteiner H, Haun M, Schönherr S, Neuner M, **Forer L**, Specht G, Kloss-Brandstätter A, Kronenberg F, Coassin S (2013). *[SNPflow: a lightweight application for the processing, storing and automatic quality checking of genotyping assays](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059508)*. PLoS ONE 8(3): e59508.
+Weissensteiner H, Haun M, Schönherr S, Neuner M, **Forer L**, Specht G, Kloss-Brandstätter A, Kronenberg F, Coassin S (2013). *[SNPflow: a lightweight application for the processing, storing and automatic quality checking of genotyping assays](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059508)*. **PLoS ONE** 8(3): e59508.
 
 ## 2012
 
 Lamina C, **Forer L**, Schönherr S, Kollerits B, Ried JS, Gieger C, Peters A, Wichmann H, Kronenberg F (2012). *[Evaluation of gene--obesity interaction effects on cholesterol levels: A genetic predisposition score on HDL-cholesterol is modified by obesity](http://www.ncbi.nlm.nih.gov/pubmed/23058813
-)*. Atherosclerosis, 225(2), 363-369.
+)*. **Atherosclerosis**, 225(2), 363-369.
 
-Schönherr S, **Forer L**, Weißensteiner H, Kronenberg F, Specht G, Kloss-Brandstätter A (2012). *[Cloudgene: A graphical execution platform for MapReduce programs on private and public clouds](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-200)*. BMC Bioinformatics, 13(1), 200.
+Schönherr S, **Forer L**, Weißensteiner H, Kronenberg F, Specht G, Kloss-Brandstätter A (2012). *[Cloudgene: A graphical execution platform for MapReduce programs on private and public clouds](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-200)*. **BMC Bioinformatics**, 13(1), 200.
 
 **Forer L**, Schönherr S, Weißensteiner H, Specht G, Kronenberg F, Kloss-Brandstätter A (2012). *[Cloud Computing](http://www.springer.com/us/book/9783709109465)*. Computational Medicine: Tools and Challenges, 27-36.
 
 ## 2011
 
-Jacquemont S, Reymond A, Zufferey F, Harewood L, Walters RG, Kutalik Z, Martinet D, Shen Y, Valsesia A, Beckmann ND, others (2011). *[Mirror extreme BMI phenotypes associated with gene dosage at the chromosome 16p11. 2 locus](http://www.ncbi.nlm.nih.gov/pubmed/21881559)*. Nature, 478(7367), 97-102.
+Jacquemont S, Reymond A, Zufferey F, Harewood L, Walters RG, Kutalik Z, Martinet D, Shen Y, Valsesia A, Beckmann ND, others (2011). *[Mirror extreme BMI phenotypes associated with gene dosage at the chromosome 16p11. 2 locus](http://www.ncbi.nlm.nih.gov/pubmed/21881559)*. **Nature**, 478(7367), 97-102.
 
 Schönherr S, **Forer L**, Weißensteiner H, Kronenberg F, Specht G, Kloss-Brandstätter A (2011). *[A feedback guided interface for elastic computing](http://ceur-ws.org/Vol-733/paper_schoenherr.pdf
 )*. Grundlagen von Datenbanken 2011: 109-114.
 
 ## 2010
 
-**Forer L**, Schönherr S, Weissensteiner H, Haider F, Kluckner T, Gieger C, Wichmann H, Specht G, Kronenberg F, Kloss-Brandstätter A (2010). *[CONAN: copy number variation analysis software for genome-wide association studies](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-318)*. BMC Bioinformatics, 11(1), 318.
+**Forer L**, Schönherr S, Weissensteiner H, Haider F, Kluckner T, Gieger C, Wichmann H, Specht G, Kronenberg F, Kloss-Brandstätter A (2010). *[CONAN: copy number variation analysis software for genome-wide association studies](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-318)*. **BMC Bioinformatics**, 11(1), 318.
 
 ## 2008
 
-Fuchsberger C, Falchi M, **Forer L**, Pramstaller PP (2008). *[PedVizApi: a Java API for the interactive, visual analysis of extended pedigrees](http://www.ncbi.nlm.nih.gov/pubmed/18033791)*. Bioinformatics, 24(2), 279--281.
+Fuchsberger C, Falchi M, **Forer L**, Pramstaller PP (2008). *[PedVizApi: a Java API for the interactive, visual analysis of extended pedigrees](http://www.ncbi.nlm.nih.gov/pubmed/18033791)*. **Bioinformatics**, 24(2), 279--281.
 
 Fuchsberger C, **Forer L**, Pattaro C, Hicks A, Pramstaller P, Miksch S (2008). *[Visual Analytical Methods to Identify Family Clustered Diseases](http://dx.doi.org/doi:10.1109/CBMS.2008.60)*. International Symposium on Computer-Based Medical Systems, 2008. CBMS '08. 21st IEEE, 602-604.
 
