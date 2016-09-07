@@ -8,6 +8,11 @@ Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAA
 
 ## 2016
 
+Das S, **Forer L**, Schönherr S, Sidore C, Locke AE, Kwong A, Vrieze SI, Chew EY,
+Levy S, McGue M, Schlessinger S, Stambolian D, Loh PR, Iacono WG, Swaroop A,
+Scott LJ, Cucca F, Kronenberg F, Boehnke M, Abecasis G Fuchsberger C (2016). *[Next
+generation genotype imputation service and methods](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3656.html)*. **Nature Genetics**. DOI: 10.1038/ng.3656
+
 McCarthy S, Das S, Kretzschmar W, Delaneau O, Wood AR, Teumer A, Kang
 HM, Fuchsberger C, Danecek P, Sharp K, Luo Y, Sidore C, Kwong A, Timpson
 N, Koskinen S, Vrieze S, Scott LJ, Zhang H, Mahajan A, Veldink J, Peters U,
