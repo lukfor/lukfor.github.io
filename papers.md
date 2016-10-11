@@ -8,6 +8,8 @@ Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAA
 
 ## 2016
 
+Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3679.html)*. **Nature Genetics**, 10.1038/ng.3679.
+
 Das S, **Forer L**, Schönherr S, Sidore C, Locke AE, Kwong A, Vrieze SI, Chew EY,
 Levy S, McGue M, Schlessinger S, Stambolian D, Loh PR, Iacono WG, Swaroop A,
 Scott LJ, Cucca F, Kronenberg F, Boehnke M, Abecasis G Fuchsberger C (2016). *[Next
@@ -33,8 +35,6 @@ MI, Durbin R, Abecasis G, Marchini J (2016). *[A reference panel of 64,976
 haplotypes for genotype imputation](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3643.html)*. **Nature Genetics**. DOI: 10.1038/ng.3643
 
 Lamina C, Friedel S, Coassin S, Rueedi R, Yousri NA, Seppälä I, Gieger C, Schönherr S, **Forer** L, Erhart G, Kollerits B, Marques-Vidal P, Ried J, Waeber G, Bergmann S, Dähnhardt D, Stöckl A, Kiechl S, Raitakari OT, Kähönen M, Willeit J, Kedenko L, Paulweber B, Peters A, Meitinger T, Strauch K, Study Group K, Lehtimäki T, Hunt SC, Vollenweider P, Kronenberg F. (2016). *[A Genome-wide Association Meta-analysis on Apolipoprotein A-IV Concentrations](http://hmg.oxfordjournals.org/content/early/2016/07/12/hmg.ddw211.abstract)*. **Hum. Mol. Genet**. doi:10.1093/hmg/ddw211.
-
-Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.biorxiv.org/content/early/2016/05/10/052308.abstract)*. **bioRxiv**, 52308.
 
 Busch M, Nadal J, Schmid M, Paul K, Titze S, Hübner S, Köttgen A, Schultheiss UT, Baid-Agrawal S, Lorenzen J, Schlieper G, Sommerer C, Krane V, Hilge R, Kielstein JT, Kronenberg F, Wanner C, Eckardt KU, Wolf G; **GCKD Study Investigators**. *[Glycaemic control and antidiabetic therapy in patients with diabetes mellitus and chronic kidney disease - cross-sectional data from the German Chronic Kidney Disease (GCKD) cohort](http://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-016-0273-z)*. **MC Nephrol.** 2016 Jun 11;17(1):59. doi: 10.1186/s12882-016-0273-z.
 
