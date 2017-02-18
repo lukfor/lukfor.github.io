@@ -6,9 +6,13 @@ permalink: /papers/
 
 Visit me on [Google Scholar](http://scholar.google.at/citations?user=9m0ch2QAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lukas_Forer)
 
+## 2017
+Taliun D, Chothani S, Schönherr S, **Forer L**, Boehnke M, Abecasis GR, Wang C (2017). *[LASER server: ancestry tracing with genotypes or sequence reads](https://doi.org/10.1093/bioinformatics/btx075)*. **Bioinformatics**, DOI: 10.1093/bioinformatics/btx075.
+
+
 ## 2016
 
-Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3679.html)*. **Nature Genetics**, 10.1038/ng.3679.
+Loh PR, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, **Forer L**, McCarthy S,  Abecasis GR, Durbin R, Proce AL (2016). *[Reference-based phasing using the Haplotype Reference Consortium panel](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3679.html)*. **Nature Genetics**, DOI: 10.1038/ng.3679.
 
 Das S, **Forer L**, Schönherr S, Sidore C, Locke AE, Kwong A, Vrieze SI, Chew EY,
 Levy S, McGue M, Schlessinger S, Stambolian D, Loh PR, Iacono WG, Swaroop A,
