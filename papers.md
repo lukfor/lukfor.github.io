@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /papers/
+title: Papers
 highlight: Forer L
 ---
-
-# Papers
 
 <table class="paper-table">
 <thead>
