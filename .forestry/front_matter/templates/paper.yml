@@ -1,0 +1,47 @@
+---
+label: Paper
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: number
+  name: number
+  label: number
+- type: textarea
+  name: title
+  label: title
+- type: textarea
+  name: authors
+  label: authors
+- type: text
+  name: journal
+  label: journal
+- type: number
+  name: volume
+  label: volume
+- type: number
+  name: issue
+  label: issue
+- type: text
+  name: pages
+  label: pages
+- type: number
+  name: pmid
+  label: pmid
+- type: field_group
+  name: pubdate
+  label: pubdate
+  fields:
+  - type: number
+    name: year
+    label: year
+  - type: text
+    name: month
+    label: month
+  - type: text
+    name: day
+    label: day
+- type: text
+  name: doi
+  label: doi
