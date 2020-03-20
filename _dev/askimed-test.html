@@ -1,0 +1,13 @@
+<html>
+<body>
+  <h2>Data from Askimed</h2>
+  <div id="div"></div>
+  <script>
+    var queryString = window.location.search;
+    var urlParams = new URLSearchParams(queryString);
+    var div = document.getElementById("div");
+    div.innerHTML += "<b>ID: </b>" + urlParams.get('id') + "<br>";
+    div.innerHTML += "<b>Center: </b>" + urlParams.get('center');
+  </script>
+</body>
+</html>
