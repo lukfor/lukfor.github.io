@@ -15,6 +15,6 @@ Die Test-Ergebnisse wurden fortlaufend auf den Seiten des [Südtiroler Sanitäts
 
 Die Visualisierung wurde mit der freien Software [R](https://www.r-project.org) und den Paketen [ggplot2](https://ggplot2.tidyverse.org) und [gganimate](https://gganimate.com) erstellt:
 
-- Für eine flüssige Animation wurden immer 2-Stunden-Intervalle verwendet. Die fehlenden Intervalle wurden interpoliert.
+- Für eine flüssige Animation wurden immer 2-Stunden-Intervalle verwendet. Die fehlenden Zeitpunkte wurden interpoliert.
 - Die geographischen Daten der Gemeinden stammen von [https://geoservices.buergernetz.bz.it/geokatalog](https://geoservices.buergernetz.bz.it/geokatalog).
 - Die Test-Ergebnisse stammen von [https://coronatest.sabes.it/de/muni](https://coronatest.sabes.it/de/muni).
